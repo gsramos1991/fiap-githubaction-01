@@ -27,3 +27,5 @@ jobs:
         context: .
         tags: 'latest'
         push: true
+
+        
